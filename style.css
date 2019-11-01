@@ -36,7 +36,7 @@ h2{
 
 .container-center{
 	width: 700px;
-	margin: 40px 450px;
+	margin: 40px auto;
 }
 
 @media (max-width: 760px) {
@@ -49,11 +49,6 @@ h2{
 	.container-center{
 		width: 400px;
 	}
-}
-
-.container-left{
-	width: 320px;
-	margin: 40px 60px
 }
 
 .card-white{
