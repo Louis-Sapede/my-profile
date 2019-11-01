@@ -12,7 +12,7 @@ h1{
 	color: #69B380;
 	font-family: helvetica;
 	font-weight: 900;
-	letter-spacing: 10px;
+	letter-spacing: 8px;
 	font-size: 32px;
 	text-transform: uppercase;
 }
@@ -97,7 +97,7 @@ transition: all 0.4s ease 0s;
 
 .list-inline i{
 	font-size: 50px;
-	color: rgb(230,230,230);
+	color: #3e64ff;
 }
 
 .list-inline i:hover{
